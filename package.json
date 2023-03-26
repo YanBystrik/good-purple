@@ -2,7 +2,7 @@
   "name": "good-purple",
   "displayName": "Good Purple",
   "description": "Theme you've always wanted",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "yanbystrikov",
   "repository": {
     "type": "git",
@@ -30,5 +30,9 @@
         "path": "./themes/Good-purple-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "vsce": "^2.15.0"
   }
 }
